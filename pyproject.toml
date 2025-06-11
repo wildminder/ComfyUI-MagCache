@@ -1,0 +1,15 @@
+[project]
+name = "ComfyUI-MagCache"
+description = "Magnitude-Aware Cache"
+version = "0.1.0"
+license = {file = "LICENSE"}
+dependencies = ["torch", "numpy"]
+
+[project.urls]
+Repository = "https://github.com/wildminder/ComfyUI-MagCache"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = "wildai"
+DisplayName = "ComfyUI-MagCache"
+Icon = ""
