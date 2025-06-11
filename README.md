@@ -1,2 +1,5 @@
-# ComfyUI-Magcache
-ComfyUI node for Fast Video Generation with Magnitude-Aware Cache
+# ComfyUI-MagCache
+
+**WIP**
+
+* Mag for Flux seems to work.
